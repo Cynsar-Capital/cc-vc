@@ -1,0 +1,8 @@
+PyPDF2
+spacy
+pdfplumber
+gensim
+tensorflow
+sqlalchemy
+tensorflow_hub
+sentence_transformers
